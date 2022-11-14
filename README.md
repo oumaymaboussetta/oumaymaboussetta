@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BOUSSETTA Oumayma</h1>
-<h3 align="center">A passionate of Data Science and business intelligence from Oujda</h3>
+<h3 align="center">A passionate of Data Science and business intelligence</h3>
 
 - 🔭 I’m currently student at **Télécom Saint Etienne**
 
